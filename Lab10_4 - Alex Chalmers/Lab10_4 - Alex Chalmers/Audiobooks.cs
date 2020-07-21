@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lab10_4___Alex_Chalmers
+{
+    class Audiobooks : IAudioplayer
+    {
+        public string bookTitle { get; }
+        public string author { get; }
+        public Audiobooks(string bookTitle, string author)
+        {
+            this.bookTitle = bookTitle;
+            this.author = author;
+        }
+        public void Play()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Now Playing ");
+            sb.Append(bookTitle);
+            sb.Append(" by ");
+            sb.Append(author);
+            Console.WriteLine(sb.ToString());
+        }
+    }
+}
