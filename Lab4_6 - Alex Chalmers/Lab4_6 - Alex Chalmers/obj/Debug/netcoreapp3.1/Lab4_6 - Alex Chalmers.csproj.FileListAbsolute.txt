@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\bin\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.exe
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\bin\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.deps.json
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\bin\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.runtimeconfig.json
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\bin\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\bin\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.dll
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\bin\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.pdb
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.dll
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.pdb
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab4_6 - Alex Chalmers\Lab4_6 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab4_6 - Alex Chalmers.genruntimeconfig.cache
