@@ -1,0 +1,4 @@
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab8_4 - Alex Chalmers\Lab8_4 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab8_4 - Alex Chalmers.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab8_4 - Alex Chalmers\Lab8_4 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab8_4 - Alex Chalmers.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab8_4 - Alex Chalmers\Lab8_4 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab8_4 - Alex Chalmers.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\SD1104\Labs and Tests\Lab8_4 - Alex Chalmers\Lab8_4 - Alex Chalmers\obj\Debug\netcoreapp3.1\Lab8_4 - Alex Chalmers.csproj.CoreCompileInputs.cache
